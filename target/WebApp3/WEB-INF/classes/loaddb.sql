@@ -1,0 +1,5 @@
+INSERT INTO users(name, login, email, password, date) VALUES ('admin','admin','razz2zz@rambler.ru','8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918',CURRENT_DATE );
+INSERT INTO users(name, login, email, password, date) VALUES ('Vladislav Plemyannik','davilko','vladcredo1994@gmail.com','1ee465b64669548e1d984b3717986107bd490d43324da0661d0ba6a6fd549e17',CURRENT_DATE );
+INSERT INTO users(name, login, email, password, date) VALUES ('Olga Rastrova','apache23','example@mail.ru','65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5',CURRENT_DATE );
+INSERT INTO users(name, login, email, password, date) VALUES ('Maria','maha78','pinion','50f72405baf11b0f73f6a3db7152798bf2f958384e806befdf4ee6ddfdd9e198',CURRENT_DATE );
+INSERT INTO users(name, login, email, password, date) VALUES ('Alex Potapov','Alex1995','alex1995_2@ya.ru','65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5',CURRENT_DATE );
